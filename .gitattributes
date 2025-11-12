@@ -1,0 +1,4 @@
+*.arrow filter=lfs diff=lfs merge=lfs -text
+statcast_2025_data.csv filter=lfs diff=lfs merge=lfs -text
+soccer_events_processed.csv filter=lfs diff=lfs merge=lfs -text
+basketball_dataset/data/nba_tracking_data_15_16-train.arrow filter=lfs diff=lfs merge=lfs -text
